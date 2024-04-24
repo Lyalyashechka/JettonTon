@@ -1,0 +1,1 @@
+export * from '../build/MyJettonMaster/tact_MyJettonMaster';

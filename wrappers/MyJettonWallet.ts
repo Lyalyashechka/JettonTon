@@ -1,0 +1,1 @@
+export * from '../build/MyJettonWallet/tact_MyJettonWallet';
